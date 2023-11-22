@@ -30,7 +30,7 @@ const generatePassword = (psLength, lowerCase, upperCase, numeric, special) => {
   const numericCharSet = "0123456789";
   const lowerCaseCharSet = "abcdefghijklmnopqrstuvwxyz";
   const upperCaseCharSet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-  const specialCharSet = "!@#$%^&*()";
+  const specialCharSet = "!\"#$%&'()*+,-./:;<=>?@[\]\\^_`{|}~";
 
   let useableChars = "";
 
