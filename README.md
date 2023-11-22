@@ -21,6 +21,7 @@ A screenshot of the current site:
 ![Screenshot of the current online site with the lay of the page displayed](./assets/images/mforte215.github.io_password-generator-js_.png)
 
 Link to the website deployed on GitHub Pages: https://mforte215.github.io/password-generator-js/
+
 Link to the code repository on GitHub: https://github.com/mforte215/password-generator-js
 
 ## Credits
